@@ -1,0 +1,14 @@
+*{margin: 0;
+  padding: 0;
+  box-sizing: 0;
+}
+html{
+    font-size: 10px;
+    font-family: 'Albert Sans', sans-serif,monospace;
+    font-family: 'Chakra Petch', sans-serif;
+}
+
+.seccion_general{
+    width: 41.4rem;
+    height: 73.6;
+}

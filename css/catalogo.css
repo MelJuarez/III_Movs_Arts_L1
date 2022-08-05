@@ -1,0 +1,562 @@
+body{
+    width: 41.4rem;
+    height: auto;
+    background-color: #ffffff;
+}
+header{
+    width: 41.4rem;
+    height: 5rem;
+    background-color:#B7CADB;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-content: center;
+}
+.Exp{
+    width: 20.4rem;
+    display: flex;
+    font-size: 2rem;
+    align-items: center;
+    justify-content: flex-end;
+}
+.Fil{
+    width: 20.4rem;
+    display: flex;
+    font-size: 2rem;
+    align-items: center;
+    justify-content: flex-end;
+    margin: 0 3rem 0 0;
+}
+.titulo{
+    height: 12rem;
+    width: auto;
+    background-color: #ffffff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+.box_titulo p{
+    color: rgb(56, 56, 50);
+    font-size: 4rem;
+    font-weight: bold;
+    margin: 1rem 0 0 0;
+}
+.box1{
+    width: 41.4rem;
+    height: 20rem;
+    display: flex;
+    flex-direction: row; 
+    border-bottom: #b3b2b2 solid 0.3rem;
+    
+}
+.box1 a {
+    text-decoration: none;
+}
+.C1_1{
+    width: 20.4;
+    height: 20rem;
+    display: flex;
+    align-items: center;
+    
+}
+.img1_C1{
+    width: 13rem;
+    height: 15rem;
+    margin: 4rem;
+    background-color: #d3d2d2
+}
+.C1_2{
+    width: 20.4rem ;
+    height: 20rem;
+    display: flex;
+    flex-direction: column;
+
+}
+.text_C1{
+    font-size: 3rem;
+    color: #110b0d;
+    margin-top: 2.8rem;
+}
+.Fram{
+    font-size: 1.4rem;
+    color: #c5a67d;
+}
+.botonC1{
+    width: 8.7rem;
+    height: 2.5rem;
+    border: none;
+    border-radius: 0.5rem 0.5rem 0.5rem 0.5rem;
+    margin: 3rem 0 1rem 0;
+    font-size: 1.4rem;
+    color: white;
+    background-color: #818e99; 
+    font-weight: bold;
+}
+.botonC1:hover{
+    transition-duration: 0.10s;
+    background-color: #3a3a3a;
+}
+.com_C1{
+    display: flex;
+    flex-direction: row;
+}
+.icon_C1{
+    height: 2.7rem;
+    width: auto;
+    
+}
+.com_C1_1{
+        font-size: 1.5rem;
+        color: #292929;
+        margin: 0.5rem 0 0 2rem;
+}
+
+/*---------------CAJA DOS--------------------*/
+.box2{
+    width: 41.4rem;
+    height: 20rem;
+    display: flex;
+    flex-direction: row; 
+    border-bottom: #b3b2b2 solid 0.3rem;
+}
+.box2 a {
+    text-decoration: none;
+}
+.C2_1{
+    width: 20.4;
+    height: 20rem;
+    display: flex;
+    align-items: center;
+    
+}
+.img1_C2{
+    width: 13.5rem;
+    height: 15rem;
+    margin: 3.5rem;
+    background-color: #d3d2d2;
+}
+.text_C2{
+    font-size: 3rem;
+    color: #110b0d;
+    margin-top: 2.8rem;
+}
+.John{
+    font-size: 1.4rem;
+    color: #c5a67d;
+}
+.buttons_C2{
+    display: flex;
+    flex-direction: row;
+}
+.botonC2_1{
+    width: 8.7rem;
+    height: 2.5rem;
+    border: none;
+    border-radius: 0.5rem 0.5rem 0.5rem 0.5rem;
+    margin: 3rem 0 1rem 0;
+    font-size: 1.4rem;
+    color: white;
+    background-color: #818e99; 
+    font-weight: bold;
+}
+.botonC2_1:hover{
+    transition-duration: 0.10s;
+    background-color: #3a3a3a;
+}
+.botonC2_2{
+    width: 8.7rem;
+    height: 2.5rem;
+    border: none;
+    border-radius: 0.5rem 0.5rem 0.5rem 0.5rem;
+    margin: 3rem 0 1rem 0.6rem;
+    font-size: 1.4rem;
+    color: white;
+    background-color: #818e99; 
+    font-weight: bold; 
+}
+.botonC2_2:hover{
+    transition-duration: 0.10s;
+    background-color: #3a3a3a;
+}
+.com_C2{
+    display: flex;
+    flex-direction: row;
+}
+.icon_C2{
+    height: 2.7rem;
+    width: auto;
+    
+}
+.com_C2_1{
+        font-size: 1.5rem;
+        color: #292929;
+        margin: 0.5rem 0 0 2rem;
+}
+/*------------------CAJA TRES-----------------*/
+.box3{
+    width: 41.4rem;
+    height: 20rem;
+    display: flex;
+    flex-direction: row; 
+    border-bottom: #b3b2b2 solid 0.3rem;
+}
+.box3 a {
+    text-decoration: none;
+}
+.C3_1{
+    width: 20.4;
+    height: 20rem;
+    display: flex;
+    align-items: center;
+    
+}
+.img1_C3{
+    width: 15rem;
+    height: 15rem;
+    margin: 3rem;
+    background-color: #d3d2d2;
+}
+.text_C3{
+    font-size: 3rem;
+    color: #030303;
+    margin-top: 2.8rem;
+}
+.Marie{
+    font-size: 1.4rem;
+    color: #c5a67d;
+}
+.buttons_C3{
+    display: flex;
+    flex-direction: row;
+}
+.botonC3_1{
+    width: 8.7rem;
+    height: 2.5rem;
+    border: none;
+    border-radius: 0.5rem 0.5rem 0.5rem 0.5rem;
+    margin: 3rem 0 1rem 0;
+    font-size: 1.4rem;
+    color: white;
+    background-color: #818e99; 
+    font-weight: bold;
+}
+.botonC3_1:hover{
+    transition-duration: 0.10s;
+    background-color: #3a3a3a;
+}
+.botonC3_2{
+    width: 8.7rem;
+    height: 2.5rem;
+    border: none;
+    border-radius: 0.5rem 0.5rem 0.5rem 0.5rem;
+    margin: 3rem 0 1rem 0.6rem;
+    font-size: 1.4rem;
+    color: white;
+    background-color: #818e99; 
+    font-weight: bold; 
+}
+.botonC3_2:hover{
+    transition-duration: 0.10s;
+    background-color: #3a3a3a;
+}
+.com_C3{
+    display: flex;
+    flex-direction: row;
+}
+.icon_C3{
+    height: 2.7rem;
+    width: auto;
+    
+}
+.com_C3_1{
+        font-size: 1.5rem;
+        color: #292929;
+        margin: 0.5rem 0 0 2rem;
+}
+/*-------------------CAJA CUATRO----------------*/
+.box4{
+    width: 41.4rem;
+    height: 20rem;
+    display: flex;
+    flex-direction: row; 
+    border-bottom: #b3b2b2 solid 0.3rem;
+}
+.box4 a {
+    text-decoration: none;
+}
+.C4_1{
+    width: 20.4;
+    height: 20rem;
+    display: flex;
+    align-items: center;
+    
+}
+.img1_C4{
+    width: 15rem;
+    height: 15rem;
+    margin: 3rem;
+    background-color: #d3d2d2;
+}
+.text_C4{
+    font-size: 3rem;
+    color: #110b0d;
+    margin-top: 2.8rem;
+}
+.Marie_Sa{
+    font-size: 1.4rem;
+    color: #c5a67d;
+}
+.buttons_C4{
+    display: flex;
+    flex-direction: row;
+}
+.botonC4_1{
+    width: 8.7rem;
+    height: 2.5rem;
+    border: none;
+    border-radius: 0.5rem 0.5rem 0.5rem 0.5rem;
+    margin: 3rem 0 1rem 0;
+    font-size: 1.4rem;
+    color: white;
+    background-color: #818e99; 
+    font-weight: bold; 
+}
+.botonC4_1:hover{
+    transition-duration: 0.10s;
+    background-color: #3a3a3a;
+}
+.botonC4_2{
+    width: 8.7rem;
+    height: 2.5rem;
+    border: none;
+    border-radius: 0.5rem 0.5rem 0.5rem 0.5rem;
+    margin: 3rem 0 1rem 0.6rem;
+    font-size: 1.4rem;
+    color: white;
+    background-color: #818e99; 
+    font-weight: bold; 
+}
+.botonC4_2:hover{
+    transition-duration: 0.10s;
+    background-color: #3a3a3a;
+}
+.com_C4{
+    display: flex;
+    flex-direction: row;
+}
+.icon_C4{
+    height: 2.7rem;
+    width: auto;
+    
+}
+.com_C4_1{
+        font-size: 1.5rem;
+        color: #292929;
+        margin: 0.5rem 0 0 2rem;
+}
+
+/*----------------CAJA CINCO-----------------*/
+.box5{
+    width: 41.4rem;
+    height: 20rem;
+    display: flex;
+    flex-direction: row; 
+    border-bottom: #b3b2b2 solid 0.3rem;
+}
+.box5 a {
+    text-decoration: none;
+}
+.C5_1{
+    width: 20.4;
+    height: 20rem;
+    display: flex;
+    align-items: center;
+    
+}
+.img1_C5{
+    width: 12.5rem;
+    height: 15rem;
+    margin: 4rem;
+    background-color: #d3d2d2;
+}
+.text_C5{
+    font-size: 3rem;
+    color: #110b0d;
+    margin-top: 2.8rem;
+}
+.Mel{
+    font-size: 1.4rem;
+    color: #c5a67d;
+}
+.buttons_C5{
+    display: flex;
+    flex-direction: row;
+}
+.botonC5_1{
+    width: 8.7rem;
+    height: 2.5rem;
+    border: none;
+    border-radius: 0.5rem 0.5rem 0.5rem 0.5rem;
+    margin: 3rem 0 1rem 0;
+    font-size: 1.4rem;
+    color: white;
+    background-color: #818e99; 
+    font-weight: bold; 
+}
+.botonC5_1:hover{
+    transition-duration: 0.10s;
+    background-color: #3a3a3a;
+}
+.botonC5_2{
+    width: 8.7rem;
+    height: 2.5rem;
+    border: none;
+    border-radius: 0.5rem 0.5rem 0.5rem 0.5rem;
+    margin: 3rem 0 1rem 0.6rem;
+    font-size: 1.4rem;
+    color: white;
+    background-color: #818e99; 
+    font-weight: bold; 
+}
+.botonC5_2:hover{
+    transition-duration: 0.10s;
+    background-color: #3a3a3a;
+}
+.com_C5{
+    display: flex;
+    flex-direction: row;
+}
+.icon_C5{
+    height: 2.7rem;
+    width: auto;
+    
+}
+.com_C5_1{
+        font-size: 1.5rem;
+        color: #292929;
+        margin: 0.5rem 0 0 2rem;
+}
+/*---------------CAJA SEIS--------------------*/
+.box6{
+    width: 41.4rem;
+    height: 22rem;
+    display: flex;
+    flex-direction: row; 
+    border-bottom: #b3b2b2 solid 0.3rem;
+}
+.box6 a{
+    text-decoration: none;
+}
+.C6_1{
+    width: 20.4;
+    height: 20rem;
+    display: flex;
+    align-items: center;
+    
+}
+.img1_C6{
+    width: 13rem;
+    height: 15rem;
+    margin: 3rem;
+    background-color: #d3d2d2;
+}
+.text_C6{
+    font-size: 2.5rem;
+    color: #110b0d;
+    margin-top: 2.8rem;
+}
+.Meli{
+    font-size: 1.4rem;
+    color: #c5a67d;
+}
+.buttons_C6{
+    display: flex;
+    flex-direction: row;
+}
+.botonC6_1{
+    width: 8.7rem;
+    height: 2.5rem;
+    border: none;
+    border-radius: 0.5rem 0.5rem 0.5rem 0.5rem;
+    margin: 3rem 0 1rem 0;
+    font-size: 1.4rem;
+    color: white;
+    background-color: #818e99; 
+    font-weight: bold;  
+}
+.botonC6_2:hover{
+    transition-duration: 0.10s;
+    background-color: #3a3a3a;
+}
+.botonC6_2{
+    width: 8.7rem;
+    height: 2.5rem;
+    border: none;
+    border-radius: 0.5rem 0.5rem 0.5rem 0.5rem;
+    margin: 3rem 0 1rem 0.6rem;
+    font-size: 1.4rem;
+    color: white;
+    background-color: #818e99; 
+    font-weight: bold; 
+}
+.com_C6{
+    display: flex;
+    flex-direction: row;
+}
+.icon_C6{
+    height: 2.7rem;
+    width: auto;
+    
+}
+.com_C6_1{
+        font-size: 1.5rem;
+        color: #292929;
+        margin: 0.5rem 0 0 2rem;
+}
+.none{
+    height: 9rem;
+}
+
+
+/*-----------BARRA INFERIOR-------------------*/
+.barra_inferior{  
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    position: fixed;
+    z-index: 2000;
+    bottom: 0;
+    background-color: #818e99;
+
+}
+.i_1{
+    height: 3rem;
+    width: auto;
+    margin: 1.7rem;
+}
+.i_2{
+    height: 3rem;
+    width: auto;
+    margin: 1.7rem;
+    margin-right: 3rem;
+}
+.i_3{
+    height: 3rem;
+    width: auto;
+    margin: 1.7rem;
+    margin-right: 3rem;
+}
+.i_4{
+    height: 3rem;
+    width: auto;
+    margin: 1.7rem;
+    margin-right: 3rem;
+}
+.i_5{
+    height: 3rem;
+    width: auto;
+    margin: 1.7rem;
+    margin-right: 3rem;
+}
